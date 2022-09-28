@@ -13,6 +13,8 @@
 		DE79CACB28E3F40B009C2081 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DE79CAC928E3F40B009C2081 /* Main.storyboard */; };
 		DE79CACD28E3F40C009C2081 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DE79CACC28E3F40C009C2081 /* Assets.xcassets */; };
 		DE79CAD028E3F40C009C2081 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DE79CACE28E3F40C009C2081 /* LaunchScreen.storyboard */; };
+		DE79CAD828E3FFED009C2081 /* Mahfuz_TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE79CAD728E3FFED009C2081 /* Mahfuz_TableViewController.swift */; };
+		DE79CADC28E40482009C2081 /* Mahfuz_TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE79CADB28E40482009C2081 /* Mahfuz_TableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		DE79CACC28E3F40C009C2081 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		DE79CACF28E3F40C009C2081 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DE79CAD128E3F40C009C2081 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DE79CAD728E3FFED009C2081 /* Mahfuz_TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mahfuz_TableViewController.swift; sourceTree = "<group>"; };
+		DE79CADB28E40482009C2081 /* Mahfuz_TableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Mahfuz_TableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +67,8 @@
 				DE79CACC28E3F40C009C2081 /* Assets.xcassets */,
 				DE79CACE28E3F40C009C2081 /* LaunchScreen.storyboard */,
 				DE79CAD128E3F40C009C2081 /* Info.plist */,
+				DE79CAD728E3FFED009C2081 /* Mahfuz_TableViewController.swift */,
+				DE79CADB28E40482009C2081 /* Mahfuz_TableViewCell.swift */,
 			);
 			path = Mahfuz_Aftab_Blue_TicTacToe;
 			sourceTree = "<group>";
@@ -138,6 +144,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DE79CAD828E3FFED009C2081 /* Mahfuz_TableViewController.swift in Sources */,
+				DE79CADC28E40482009C2081 /* Mahfuz_TableViewCell.swift in Sources */,
 				DE79CAC828E3F40B009C2081 /* ViewController.swift in Sources */,
 				DE79CAC428E3F40B009C2081 /* AppDelegate.swift in Sources */,
 				DE79CAC628E3F40B009C2081 /* SceneDelegate.swift in Sources */,
